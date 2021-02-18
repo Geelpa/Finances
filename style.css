@@ -113,7 +113,11 @@ header img {
 
     font-weight: 100;
 }
-
+h1 {
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
 
 /* = BALANCE ============ */
 #balance {
@@ -304,4 +308,5 @@ footer p{
         grid-template-columns: 1fr 1fr 1fr;
         gap: 2rem;
     }
+    
 }
